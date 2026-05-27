@@ -1,0 +1,1 @@
+const a=[{label:"默认",value:void 0},{label:"primary",value:"primary"},{label:"success",value:"success"},{label:"warning",value:"warning"},{label:"error",value:"error"},{label:"info",value:"info"}],l=e=>`这是一条 ${e} 类型的消息`;export{l as r,a as t};

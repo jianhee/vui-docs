@@ -1,0 +1,1 @@
+import{ag as e,a5 as r,k as l,aT as o,s as _,r as c}from"./framework.BhJETR7Z.js";const i={__name:"label",setup(p){const a=[{label:"选项1的label"},{title:"选项2的title",divider:!0},"选项3"];return(u,t)=>{const n=e("VButton"),s=e("VDropdown");return r(),l(s,{items:a},{default:o(()=>[_(n,null,{default:o(()=>[...t[0]||(t[0]=[c("触发元素",-1)])]),_:1})]),_:1})}}};export{i as default};

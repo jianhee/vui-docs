@@ -1,0 +1,1 @@
+import{r,t as n}from"./index.Bk7lwpcM.js";import{ag as o,a5 as a,m as l,ae as c,k as m,as as s,F as p}from"./framework.BhJETR7Z.js";const v={__name:"component",setup(u){return(_,f)=>{const t=o("VToast");return a(!0),l(p,null,c(s(n),e=>(a(),m(t,{key:e.value,type:e.value,message:s(r)(e.label),class:"vui-mt-10"},null,8,["type","message"]))),128)}}};export{v as default};

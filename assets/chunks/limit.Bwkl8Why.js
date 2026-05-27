@@ -1,0 +1,1 @@
+import{ag as n,a5 as t,k as r,ac as s}from"./framework.BhJETR7Z.js";const c={__name:"limit",setup(u){const e=s(100);return(m,a)=>{const o=n("VSlider");return t(),r(o,{value:e.value,"onUpdate:value":a[0]||(a[0]=l=>e.value=l),min:50,max:200},null,8,["value"])}}};export{c as default};

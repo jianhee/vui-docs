@@ -1,0 +1,1 @@
+import{e as c,ag as o,a5 as a,k as s,aT as r,s as t}from"./framework.BhJETR7Z.js";const _={};function l(m,f){const e=o("VSkeletonItem"),n=o("VSkeleton");return a(),s(n,null,{default:r(()=>[t(e),t(e),t(e)]),_:1})}const p=c(_,[["render",l]]);export{p as default};

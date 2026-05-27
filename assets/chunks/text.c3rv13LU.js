@@ -1,0 +1,1 @@
+import{ag as o,a5 as n,k as s,ac as r}from"./framework.BhJETR7Z.js";const i={__name:"text",setup(l){const e=r(!1);return(p,t)=>{const c=o("VSwitch");return n(),s(c,{checked:e.value,"onUpdate:checked":t[0]||(t[0]=a=>e.value=a),"active-text":"打开","inactive-text":"关闭"},null,8,["checked"])}}};export{i as default};
