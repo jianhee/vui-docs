@@ -1,1 +1,0 @@
-import{u as a}from"./index.oYlcTLwq.js";import{a5 as e,k as t,ah as r,as as s}from"./framework.BhJETR7Z.js";import"./index.DdVIJ42j.js";import"./index.joV5Ich1.js";import"./theme.B0DJcTDN.js";const l={__name:"basic",setup(m){const{componentName:o}=a();return(n,p)=>(e(),t(r(s(o))))}};export{l as default};

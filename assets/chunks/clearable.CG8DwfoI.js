@@ -1,0 +1,1 @@
+import{w as e}from"./index.B00HWXt9.js";import o from"./basic.B0Otbz1A.js";import{a5 as t,k as m,as as s}from"./framework.BhJETR7Z.js";import"./theme.C3fRaHbd.js";import"./index.osATe3Zu.js";const u={__name:"clearable",setup(p){return(l,r)=>(t(),m(o,{clearable:"",onClear:r[0]||(r[0]=a=>s(e)("clear",a))}))}};export{u as default};
