@@ -1,1 +1,0 @@
-import{w as e}from"./index.B00HWXt9.js";import t from"./basic.BL49K9Ny.js";import{a5 as a,k as n,as as s}from"./framework.BhJETR7Z.js";import"./theme.C3fRaHbd.js";const u={__name:"event",setup(m){return(p,r)=>(a(),n(t,{onChange:r[0]||(r[0]=o=>s(e)("change",o))}))}};export{u as default};

@@ -1,0 +1,1 @@
+import{v as e}from"./index.nmLH0bfW.js";import{ac as i}from"./framework.BhJETR7Z.js";const t=()=>{const a=e("dialog"),o=i(!1);return{isDialog:a,componentName:a?"VDialog":"VDrawer",isVisible:o,openDialog:()=>o.value=!0,closeDialog:()=>o.value=!1}};export{t as u};

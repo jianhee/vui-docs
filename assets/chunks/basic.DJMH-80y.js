@@ -1,0 +1,1 @@
+import{u as a}from"./index.DwgMsQLH.js";import{a5 as e,k as t,ah as r,as as s}from"./framework.BhJETR7Z.js";import"./index.nmLH0bfW.js";import"./index.DVM8SxV6.js";import"./theme.B7w6l5Br.js";const l={__name:"basic",setup(m){const{componentName:o}=a();return(n,p)=>(e(),t(r(s(o))))}};export{l as default};

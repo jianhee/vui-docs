@@ -1,1 +1,0 @@
-import{v as a}from"./index.osATe3Zu.js";const n=e=>{const o=a("checkbox"),c=[e[0].value],t=e[0].value;return{componentName:o?"VCheckboxGroup":"VRadioGroup",defaultVal:o?c:t}},l=()=>({componentName:a("checkbox")?"VCheckbox":"VRadio"});export{l as a,n as u};
