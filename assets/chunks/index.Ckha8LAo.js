@@ -1,0 +1,1 @@
+import{at as r,aC as n}from"./framework.BhJETR7Z.js";import{w as c}from"./index.CCJHMDEC.js";const m=t=>n().path.includes(t),p=t=>{const s=r(),o=Object.keys(s).length===0;return{isBasic:o,showLog:(e,a)=>{o&&c(e,a)}}};export{p as u,m as v};
