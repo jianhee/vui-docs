@@ -1,0 +1,1 @@
+import{v as o}from"./index.L_V_kJKv.js";const m=()=>{const t=o("popover"),r=o("tooltip"),s=o("dropdown"),e={content:"弹框内容弹框内容弹框内容弹框内容弹框内容弹框内容弹框内容弹框内容"},n={items:Array.from({length:5}).map((c,p)=>({key:p+1,label:`选项${p+1}`}))};return{props:s?n:e,componentName:t?"VPopover":r?"VTooltip":"VDropdown"}};export{m as u};

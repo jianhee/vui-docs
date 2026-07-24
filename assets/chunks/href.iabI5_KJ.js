@@ -1,1 +1,0 @@
-import r from"./basic.GjmhqsrE.js";import{a5 as t,k as o}from"./framework.BhJETR7Z.js";import"./index.KVrkgXEg.js";import"./index.CveOKttH.js";import"./theme.D6hNcLa1.js";const n={__name:"href",setup(a){return(e,m)=>(t(),o(r,{href:"https://www.baidu.com",target:"_blank"}))}};export{n as default};
